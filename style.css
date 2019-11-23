@@ -1,0 +1,11 @@
+body {
+  background-color: teal;
+}
+.new {
+  width: 600px;
+  display: block;
+  margin: auto;
+  margin-top: 400px;
+  font-size: 100px;
+  color: aliceblue;
+}
