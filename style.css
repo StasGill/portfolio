@@ -94,6 +94,7 @@ a{
   box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   transition: all 0.3s cubic-bezier(.25,.8,.25,1);
   margin:15px 15px 25px 15px;
+  width: 400px;
 }
 
 .example:hover {
@@ -124,5 +125,15 @@ a{
         }
         .mainNavigations{
             padding-left: 10px;
+        }
+        .example{
+           
+            width: 300px;
+        }
+        .example img{
+            width: 300px;
+        }
+        .portfolio {
+            width: 300px;
         }
 }
