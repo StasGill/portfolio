@@ -59,11 +59,11 @@ a{
     
         display: flex;
         justify-content: space-between;
-        /* position: absolute ; */
+        position: absolute ;
         bottom: 15px;
         right: 40px;
         width: 250px;
-        margin: 135% auto 0 auto;
+        margin: 0 auto 0 auto;
     
 }
 
