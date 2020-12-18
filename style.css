@@ -126,6 +126,9 @@ a{
         position: absolute;
         left: -320px;
         }
+        .navigationsActive{
+            position: fixed;left: 0px;transition: transform 0.3s ease-in-out;}
+        
         .mainNavigations{
             padding-left: 10px;
         }
