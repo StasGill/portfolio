@@ -23,5 +23,6 @@ let change = true
     //elem.classList.toggle(cls)
 
     burgerMenu.addEventListener('click',(event)=>{
-      navigation.classList.toggle(navigationsActive)
+      event.preventDefault();
+      navigation.classList.toggle("navigationsActive")
     })
